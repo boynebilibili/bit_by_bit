@@ -1,0 +1,7 @@
+# Word 文档（已转为 Markdown，不纳入版本控制）
+*.docx
+*.doc
+
+# 系统临时文件
+Thumbs.db
+.DS_Store
